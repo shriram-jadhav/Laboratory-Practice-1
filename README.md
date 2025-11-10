@@ -1,2 +1,2 @@
 # Laboratory-Practice-1
-HCI GUI code
+HCI GUI code and SPOS
